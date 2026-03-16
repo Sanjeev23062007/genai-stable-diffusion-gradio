@@ -125,7 +125,9 @@ demo.launch(share=True, server_port=int(os.environ['PORT2']))
 
 ### OUTPUT:
 
-
+![image alt](https://github.com/Sanjeev23062007/genai-stable-diffusion-gradio/blob/3656d1ad3d9e8d32b72a3d103f8e50ea76c8da30/Screenshot%202026-03-16%20155823.png)
+![image alt](https://github.com/Sanjeev23062007/genai-stable-diffusion-gradio/blob/3656d1ad3d9e8d32b72a3d103f8e50ea76c8da30/Screenshot%202026-03-16%20155812.png)
+![image alt](https://github.com/Sanjeev23062007/genai-stable-diffusion-gradio/blob/3656d1ad3d9e8d32b72a3d103f8e50ea76c8da30/Screenshot%202026-03-16%20155126.png)
 
 ### RESULT:
 The prototype enables high-quality image generation from text prompts using the Stable Diffusion model. It features an intuitive Gradio interface and is ready for deployment and further development.
